@@ -1,0 +1,7 @@
+C:\Users\mingo\source\repos\TestPro\TestPro\bin\Debug\TestPro.exe.config
+C:\Users\mingo\source\repos\TestPro\TestPro\bin\Debug\TestPro.exe
+C:\Users\mingo\source\repos\TestPro\TestPro\bin\Debug\TestPro.pdb
+C:\Users\mingo\source\repos\TestPro\TestPro\obj\Debug\TestPro.csproj.AssemblyReference.cache
+C:\Users\mingo\source\repos\TestPro\TestPro\obj\Debug\TestPro.csproj.CoreCompileInputs.cache
+C:\Users\mingo\source\repos\TestPro\TestPro\obj\Debug\TestPro.exe
+C:\Users\mingo\source\repos\TestPro\TestPro\obj\Debug\TestPro.pdb
