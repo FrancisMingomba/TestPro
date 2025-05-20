@@ -12,6 +12,9 @@ namespace TestPro
         {
             Console.WriteLine("Deploying on AWS");
             Console.ReadLine();
+
+            Console.WriteLine("Deploying on AWS");
+            Console.ReadLine();
         }
     }
 }
